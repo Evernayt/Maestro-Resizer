@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maestro Resizer", "Maestro Resizer.csproj", "{31562721-1575-4725-8283-F01D106208FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31562721-1575-4725-8283-F01D106208FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31562721-1575-4725-8283-F01D106208FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31562721-1575-4725-8283-F01D106208FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31562721-1575-4725-8283-F01D106208FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C67F0373-7195-4631-9FA7-A66D90864FC1}
+	EndGlobalSection
+EndGlobal

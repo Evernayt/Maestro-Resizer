@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Maestro_Resizer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FirstRun" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Data" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10x15,(A6) 10x15 см,10,15,False,False;15x21,(A5) 15x21 см,15,21,False,False;21x30,(A4) 21x30 см,21,30,False,False;30x40,(A3) 30x40 см,30,40,False,False;30x42,(A3) 30x42 см,30,42,False,False;40x60,(A2) 40x60 см,40,60,False,False;42x60,(A2) 42x60 см,42,60,False,False;60x80,(A1) 60x80 см,60,80,False,False;10x15,(A6) 10x15 см,10,15,True,False;15x21,(A5) 15x21 см,15,21,True,False;21x30,(A4) 21x30 см,21,30,True,False;30x40,(A3) 30x40 см,30,40,True,False;30x42,(A3) 30x42 см,30,42,True,False;40x60,(A2) 40x60 см,40,60,True,False;42x60,(A2) 42x60 см,42,60,True,False;60x80,(A1) 60x80 см,60,80,True,False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
