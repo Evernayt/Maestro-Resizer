@@ -89,12 +89,6 @@
     <None Include="Resources\icon.ico" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\delete.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\delete-hover.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\off.png" />
   </ItemGroup>
   <ItemGroup>
